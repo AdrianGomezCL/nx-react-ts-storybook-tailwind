@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "ppm": "apps/ppm",
+    "ppm-e2e": "apps/ppm-e2e"
+  }
+}
