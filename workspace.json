@@ -2,6 +2,8 @@
   "version": 2,
   "projects": {
     "ppm": "apps/ppm",
-    "ppm-e2e": "apps/ppm-e2e"
+    "ppm-e2e": "apps/ppm-e2e",
+    "ui": "libs/ui",
+    "ui-e2e": "apps/ui-e2e"
   }
 }
